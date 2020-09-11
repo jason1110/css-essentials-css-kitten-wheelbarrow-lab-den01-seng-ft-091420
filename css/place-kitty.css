@@ -35,7 +35,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-.wrapper[alt] {
+"kitty 5"[target] {
   position: absolute;
   z-index: 3;
   top: 217px;
